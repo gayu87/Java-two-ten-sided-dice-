@@ -1,0 +1,3 @@
+# Java-two-ten-sided-dice-
+
+Java console application that repeatedly rolls two ten-sided dice and tabulates the results.  To roll the dice, randomly generate two numbers between 1 and 10.  Add the two numbers together and increment the counter for that sum.  Possible sums range from 2 to 20 so store the counters in an integer array of 19 elements.  Roll the dice 100,000 times.  Format the output in three columns with the first column containing a sum, the second column containing the count, and the third column containing the percentage of that count over 100,00.  Print the total rolls and percentage.  These should be 100,000 and 100%, respectively.  Format the counts with commas.  Format the percentages with two decimal places.
